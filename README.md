@@ -1,0 +1,1 @@
+# Kafka.PosInvoice.Data.Generator

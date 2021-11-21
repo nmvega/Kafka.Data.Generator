@@ -2,5 +2,5 @@ Java code for the continuous generation of random retail **invoices**, both sema
 
 [See related PDF with Data Model here](https://jupyter.ai/cml)
 
-![Continuous M/L Simulation On Azure](resources/images/CONTINUOUS.ML.with.ADF.and.DATABRICKS.png?raw=true "Continuous M/L Simulation On Azure")
+![Continuous M/L Simulation On Azure](resources/images/CONTINUOUS.ML.with.ADF.and.DATABRICKS.png?raw=true "Continuous M/L Simulation On Azure"){:target="_blank"}
 
